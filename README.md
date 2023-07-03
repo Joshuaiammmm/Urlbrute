@@ -7,7 +7,7 @@ git clone https://github.com/Joshuaiammmm/Urlbute.git
 
 Then cd into the directory by running
 
-cd ./urlbute
+cd ./Urlbute
 
 To get setup run
 
