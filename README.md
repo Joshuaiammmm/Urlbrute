@@ -29,4 +29,4 @@ python3 urlbute.py -u example.com -w wordlist.txt
 
 for windows:
 
-python3 urlbute.py -u example.com -w wordlist.txt
+python urlbute.py -u example.com -w wordlist.txt
