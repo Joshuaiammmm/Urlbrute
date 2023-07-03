@@ -22,3 +22,11 @@ python3 urlbute.py -h
 on Windows:
 
 python urlbute.py -h
+
+An example would be for linux:
+
+python3 urlbute.py -u example.com -w wordlist.txt
+
+for windows:
+
+python3 urlbute.py -u example.com -w wordlist.txt
