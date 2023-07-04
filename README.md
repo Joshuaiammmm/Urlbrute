@@ -11,7 +11,7 @@ cd ./Urlbute
 ```
 To get setup run
 ```
-Pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 After the installtion from pip has completed run it by doing
 
