@@ -25,9 +25,9 @@ python urlbute.py -h
 ```
 An example would be for linux:
 ```
-python3 urlbute.py -u example.com -w wordlist.txt
+python3 urlbute.py -u https://example.com -w wordlist.txt
 ```
 for windows:
 ```
-python urlbute.py -u example.com -w wordlist.txt
+python urlbute.py -u https://example.com -w wordlist.txt
 ```
