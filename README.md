@@ -1,13 +1,13 @@
-# Urlbute
+# Urlbrute
 A tool written in python for check all available paths of a url
 
 to install the necessary files do:
 ```
-git clone https://github.com/Joshuaiammmm/Urlbute.git
+git clone https://github.com/Joshuaiammmm/Urlbrute.git
 ```
 Then cd into the directory by running
 ```
-cd ./Urlbute
+cd ./Urlbrute
 ```
 To get setup run
 ```
@@ -17,17 +17,17 @@ After the installtion from pip has completed run it by doing
 
 on Linux:
 ```
-python3 urlbute.py -h
+python3 urlbrute.py -h
 ```
 on Windows:
 ```
-python urlbute.py -h
+python urlbrute.py -h
 ```
 An example would be for linux:
 ```
-python3 urlbute.py -u https://example.com -w wordlist.txt
+python3 urlbrute.py -u https://example.com -w wordlist.txt
 ```
 for windows:
 ```
-python urlbute.py -u https://example.com -w wordlist.txt
+python urlbrute.py -u https://example.com -w wordlist.txt
 ```
